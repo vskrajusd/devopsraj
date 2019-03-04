@@ -1,0 +1,46 @@
+    1  ls
+    2  ls -l
+    3  sudo -i
+    4  ls -a
+    5  maven --version
+    6  sudo -i
+    7  git remote -v
+    8  ls -a
+    9  sudo -i
+   10  git branch
+   11  ls -l
+   12  git log
+   13  git --version
+   14  git status
+   15  git clone https://github.com/vskrajusd/devopsraj.git
+   16  ls -a
+   17  git status
+   18  cd devopsraj  
+   19  ls -a
+   20  git status
+   21  cd .git
+   22  ls -a
+   23  cd ..
+   24  tree
+   25  git branch
+   26  git clone https://github.com/vskrajusd/devopsraj.git
+   27  git status
+   28  ls -a
+   29  ls -l .git/
+   30  ls -l .git/objects
+   31  git status
+   32  ls -a
+   33  git add .
+   34  git status
+   35  ls -a
+   36  ls -l devopsraj
+   37  ls -a devopsraj/
+   38  git status
+   39  git commit devopsraj
+   40  git commit devopsraj -m "1st Commit"
+   41  git config --global user.email "vskrajusd@gmail.com"
+   42  git config --global user.name "vskrajusd"
+   43  git commit devopsraj -m "1st commit"
+   44  git status
+   45  git log
+   46  history >> histraj1
